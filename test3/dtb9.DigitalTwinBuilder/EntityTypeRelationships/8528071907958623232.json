@@ -1,0 +1,8 @@
+{
+  "Id": "8528071907958623232",
+  "Namespace": "usertypes",
+  "RelationshipCardinality": "ManyToOne",
+  "Name": "has",
+  "FirstEntityTypeId": "111474127102115",
+  "SecondEntityTypeId": "90713674061767"
+}

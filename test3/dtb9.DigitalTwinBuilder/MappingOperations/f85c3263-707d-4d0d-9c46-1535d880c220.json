@@ -1,0 +1,28 @@
+{
+  "operationId": "f85c3263-707d-4d0d-9c46-1535d880c220",
+  "displayName": "e1_entitytype",
+  "operationType": "Mapping",
+  "entityTypeId": "111474127102115",
+  "mappingOperationProperties": {
+    "MappingType": 1,
+    "MappedProperties": [
+      {
+        "SourceColumn": "Name",
+        "EntityTypePropertyName": "DisplayName"
+      }
+    ],
+    "ProcessingType": 1,
+    "EntityInstanceIdSchema": [
+      "Id"
+    ],
+    "TimeseriesEntityLinkProperties": null
+  },
+  "sourceTableProperties": {
+    "SourceType": 1,
+    "WorkspaceId": "00000000-0000-0000-0000-000000000000",
+    "ItemId": "76c58292-4aa3-a1c4-4985-ad62d357a518",
+    "SourceTableName": "entitytype",
+    "SourceSchema": null
+  },
+  "filters": null
+}
