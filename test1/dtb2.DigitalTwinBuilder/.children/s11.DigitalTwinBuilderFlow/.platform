@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "DigitalTwinBuilderFlow",
+    "displayName": "s11"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "59ce3f58-92cc-85c1-4c90-fcc3404d5534"
+  }
+}

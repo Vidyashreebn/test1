@@ -1,0 +1,19 @@
+{
+  "OperationId": "48937d35-b4b6-4db0-ab07-2ffcafdc9006",
+  "DisplayName": "e2_has_e1_Contextualization",
+  "OperationType": "Contextualization",
+  "EntityTypeRelationshipId": "8077909072457210880",
+  "JoinColumns": {
+    "FirstColumn": {
+      "EntityId": "120938190047350",
+      "AttributeName": "DisplayName"
+    },
+    "SecondColumn": {
+      "EntityId": "56671769540684",
+      "AttributeName": "DisplayName"
+    }
+  },
+  "EnableFuzzyMatch": false,
+  "RegexRule": null,
+  "AutoApprovalSettings": null
+}
