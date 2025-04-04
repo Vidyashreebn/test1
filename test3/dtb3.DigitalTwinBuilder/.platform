@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "DigitalTwinBuilder",
+    "displayName": "dtb3"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "3068b832-e3c1-84ea-42cf-6228cdb996d1"
+  }
+}
