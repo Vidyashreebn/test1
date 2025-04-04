@@ -1,0 +1,14 @@
+{
+  "Id": "5270017352147",
+  "Namespace": "usertypes",
+  "BaseEntityTypeId": "1",
+  "Name": "e2",
+  "Properties": [
+    {
+      "Id": "345375857190305792",
+      "Name": "DisplayName",
+      "ValueType": "String"
+    }
+  ],
+  "TimeseriesProperties": []
+}
